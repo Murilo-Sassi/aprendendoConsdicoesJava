@@ -1,3 +1,3 @@
-# aprendendoConseitosJava
+# aprendendoCodicoesJava
 
 # aprendendoGit2
